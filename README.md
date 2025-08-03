@@ -1,4 +1,4 @@
-PINOUTS:
+ESP32 S3 PINOUTS:
 Config PIN: 0
 Config LED PIN: 2
 Analog Input PIN: 10
