@@ -10,3 +10,4 @@ Pump Button 14
 Valve Button 15
 Pump LED 5
 Valve LED 6
+DS18B20 7
